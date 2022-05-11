@@ -6,12 +6,6 @@
   
 
 
-<div align="center">
-<img src="https://drive.google.com/file/d/1L726SnXL0DYE7mwnhjwPIAMl1c8i4Qud/view" align="center" height="400" width="400" />
-</div>  
-  
-
-
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **React - HTML - CSS - JAVASCRIPT - BOOTSTRAP - JAVA**
@@ -35,7 +29,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourhaan-atef&" alt="nourhaan-atef" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourhaan-atef&show_icons=true&locale=en" alt="nourhaan-atef" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&theme=panda)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhaan-atef&show_icons=true&locale=en&layout=compact" alt="nourhaan-atef" /></p>
 
