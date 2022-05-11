@@ -15,7 +15,7 @@
   
   
 
-<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="left" height="" width="800" />  
+<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="left" height="" width="1000" />  
   
 
 <br/>  
