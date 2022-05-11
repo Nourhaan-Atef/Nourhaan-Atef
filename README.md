@@ -5,6 +5,13 @@
 </div>  
   
 
+
+<div align="center">
+<img src="file:///C:/Users/Future/Downloads/photos/5c2b6b54ae3d5eabd56679e63ed83eaa.jpg" align="center" height="400" width="400" />
+</div>  
+  
+
+
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **React - HTML - CSS - JAVASCRIPT - BOOTSTRAP - JAVA**
