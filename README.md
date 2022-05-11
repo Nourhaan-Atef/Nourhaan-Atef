@@ -29,7 +29,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nourhaan-Atef&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&theme=dracula&title-color=#789885">
+<p><img src="https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&theme=dracula&title_color=#789885">
 </p>
 
 
