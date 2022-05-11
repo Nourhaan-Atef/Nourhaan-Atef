@@ -32,5 +32,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhaan-atef&show_icons=true&locale=en&layout=compact" alt="nourhaan-atef" /></p>
 
-<p>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nourhaan-Atef)  
-</p>
