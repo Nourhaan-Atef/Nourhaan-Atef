@@ -1,8 +1,8 @@
 ### **<div align="center">I'm Nourhan, a Front-End, Designer and freelance developer 👨‍💻 working remotely 🚀</div>**  
   
 
-<div align="right">
-<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="right" style="width: 100%" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="center" height="500" width="500" />
 </div>  
   
 
@@ -80,9 +80,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhaan-Atef&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nourhaan-Atef&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
