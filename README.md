@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm NOURHAN ATEF</h1>
 <h3 align="center">A passionate Frontend Developer, Designer and Freelancer from Egypt 👨‍💻 working remotely 🚀</h3>
 <div align="center">
-<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="center" height="400" width="400" />
+<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="center" height="200" width="200" />
+  <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="center" height="200" width="200" />
+
 </div>  
   
 
