@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="https://drive.google.com/drive/u/0/folders/1vJV7jRzg9g5DEbm83v3xWV7Nd47_5bTt" align="center" height="400" width="400" />
+<img src="https://drive.google.com/file/d/1L726SnXL0DYE7mwnhjwPIAMl1c8i4Qud/view" align="center" height="400" width="400" />
 </div>  
   
 
