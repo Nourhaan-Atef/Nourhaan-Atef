@@ -1,5 +1,5 @@
 <div align="right">
-<img src="" align="right" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="right" style="width: 100%" />
 </div>  
   
 
@@ -13,9 +13,6 @@
   
 
   
-  
-
-<img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="left" height="" width="1000" />  
   
 
 <br/>  
