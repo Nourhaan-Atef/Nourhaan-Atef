@@ -1,12 +1,12 @@
 <h1 align="center">Hello There 🙋‍♀️, I'm NOURHAN ATEF 💖</h1>
 <h3 align="center"> I am a Student At The Faculty Of Computer Science in The Final Year💪😴</h3>
 <h3 align="center">A passionate Frontend Developer, Designer and Freelancer from Egypt 👨‍💻 working remotely 🚀</h3>
-<p><img src="https://gpvc.arturio.dev/Nourhaan-Atef"></p>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" align="center" height="200" width="200" />
 </div>  
-  
+  <p><img src="https://gpvc.arturio.dev/Nourhaan-Atef"></p>
+
 
 
 - 🌱 I’m currently learning **React JS**
