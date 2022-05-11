@@ -29,7 +29,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nourhaan-atef&" alt="nourhaan-atef" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&theme=panda)
+<img src="https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&theme=panda">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhaan-atef&show_icons=true&locale=en&layout=compact" alt="nourhaan-atef" /></p>
 
