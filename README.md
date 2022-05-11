@@ -40,7 +40,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhaan-atef&show_icons=true&locale=en&theme=dracula&layout=compact" alt="nourhaan-atef" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&theme=dracula"></p>
 
-<p><img src="https://gpvc.arturio.dev/Nourhaan-Atef"></p>
+<p><img src="https://gpvc.arturio.dev/Nourhaan-Atef">My Profile Views</p>
 
 
 
