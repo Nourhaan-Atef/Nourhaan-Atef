@@ -1,4 +1,4 @@
-### **<div align="center">I'm Nourhan, a Front-End, Designer and freelance developer 👨‍💻 working remotely 🚀</div>**  
+### **<div align="center">I'm Nourhan, a Front-End Developer, Designer and freelance developer 👨‍💻 working remotely 🚀</div>**  
   
 
 <div align="center">
