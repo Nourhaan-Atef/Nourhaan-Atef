@@ -1,4 +1,4 @@
-### **<div align="center">I'm Nourhan, a Front-End Developer, Designer and freelance developer 👨‍💻 working remotely 🚀</div>**  
+### **<div align="center">I'm Nourhan, a Front-End, Designer and freelance developer 👨‍💻 working remotely 🚀</div>**  
   
 
 <div align="center">
@@ -88,7 +88,9 @@
 
 
 ## Recent Blog Posts  
-  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
@@ -96,7 +98,6 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Nourhaan-Atef&&style=flat-square)  
   
 
 <br/>  
