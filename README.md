@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 🙋‍♀️, I'm NOURHAN ATEF 💖</h1>
-<h3 align="center"> I am a fresh graduated from college of computer science 💪😴</h3>
+<h3 align="center"> I am a recent graduate of the Faculty of Computer Science 💪😴</h3>
 <h3 align="center">A passionate Frontend Developer, Designer and Freelancer from Egypt 👨‍💻 working remotely 🚀</h3>
 
 <div align="center">
