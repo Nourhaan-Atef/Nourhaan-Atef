@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 🙋‍♀️, I'm NOURHAN ATEF 💖</h1>
-<h3 align="center"> I am a Student At The Faculty Of Computer Science in The Final Year💪😴</h3>
+<h3 align="center"> I am a Fresh graduated 💪😴</h3>
 <h3 align="center">A passionate Frontend Developer, Designer and Freelancer from Egypt 👨‍💻 working remotely 🚀</h3>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **React - HTML - CSS - JAVASCRIPT - BOOTSTRAP - JAVA**
+- 💬 Ask me about **React - HTML - CSS - JAVASCRIPT - BOOTSTRAP - SASS**
 
 - 📫 How to reach me **anour2168@gmail.com**
 
