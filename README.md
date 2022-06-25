@@ -34,7 +34,7 @@
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Nourhaan-Atef&show_icons=true&locale=en&theme=dracula" alt="nourhaan-atef" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nourhaan-Atef&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nourhaan-atef&show_icons=true&locale=en&theme=dracula&layout=compact" alt="nourhaan-atef" /></p>
+
 <p><img src="https://github-readme-stats.vercel.app/api?username=Nourhaan-Atef&show_icons=true&theme=dracula"></p>
 
 
